@@ -32,9 +32,3 @@ To run this project, you'll need the following software installed:
    - Open the Blender file (`simulation.blend`).
    - add the Python script (`animate_objects.py`) to import the Excel data and create keyframe animations.
 
-
-## Acknowledgments
-
-Special thanks to **Dr. Ahmed Zaki** for his guidance in the "System Dynamics and Control Components" course, and for featuring this work in the course material.
-
-
