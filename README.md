@@ -19,20 +19,18 @@ In this project, the system's output response is modeled in **MATLAB Simulink**,
 To run this project, you'll need the following software installed:
 
 - **MATLAB** (with Simulink)
-- **Blender** (v2.9+)
+- **Blender** (v4.1+)
 - **Python** (v3.8+)
-  - `openpyxl` (for reading Excel data in Python)
-  - `bpy` (Blender's Python API)
 
-## How to Use
+## simulation material
 
 1. **Simulink Simulation**:  
    - Open the Simulink model (`system_simulation.slx`) in MATLAB.
    - Run the simulation and export the output response as an Excel file.
    
 2. **Blender Animation**:  
-   - Open the Blender file (`blender_scene.blend`).
-   - Run the Python script (`animate_objects.py`) to import the Excel data and create keyframe animations.
+   - Open the Blender file (`simulation.blend`).
+   - add the Python script (`animate_objects.py`) to import the Excel data and create keyframe animations.
 
 3. **Mathematical Model**:  
    - The Python script also computes the spring's stretch and position using a mathematical model defined in `spring_model.py`.
@@ -42,12 +40,9 @@ To run this project, you'll need the following software installed:
 - `/MATLAB/`: Contains the Simulink model and any related MATLAB files.
 - `/Blender/`: Contains the Blender scene file and Python scripts for animation.
 - `/Data/`: Example Excel data from the Simulink simulation.
-- `/Docs/`: Documentation and project report.
 
 ## Acknowledgments
 
 Special thanks to **Dr. Ahmed Zaki** for his guidance in the "System Dynamics and Control Components" course, and for featuring this work in the course material.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
