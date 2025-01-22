@@ -25,15 +25,12 @@ To run this project, you'll need the following software installed:
 ## simulation material
 
 1. **Simulink Simulation**:  
-   - Open the Simulink model (`system_simulation.slx`) in MATLAB.
+   - Simulink model (`system_simulation.slx`) in MATLAB.
    - Run the simulation and export the output response as an Excel file.
    
 2. **Blender Animation**:  
    - Open the Blender file (`simulation.blend`).
    - add the Python script (`animate_objects.py`) to import the Excel data and create keyframe animations.
-
-3. **Mathematical Model**:  
-   - The Python script also computes the spring's stretch and position using a mathematical model defined in `spring_model.py`.
 
 
 ## Acknowledgments
