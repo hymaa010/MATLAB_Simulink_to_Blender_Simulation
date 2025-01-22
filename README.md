@@ -35,11 +35,6 @@ To run this project, you'll need the following software installed:
 3. **Mathematical Model**:  
    - The Python script also computes the spring's stretch and position using a mathematical model defined in `spring_model.py`.
 
-## Project Structure
-
-- `/MATLAB/`: Contains the Simulink model and any related MATLAB files.
-- `/Blender/`: Contains the Blender scene file and Python scripts for animation.
-- `/Data/`: Example Excel data from the Simulink simulation.
 
 ## Acknowledgments
 
