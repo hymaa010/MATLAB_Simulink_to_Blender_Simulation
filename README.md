@@ -1,4 +1,8 @@
 # MATLAB_Simulink_to_Blender_Simulation
+---
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-26 134256" src="https://github.com/user-attachments/assets/f35c8d6b-0249-4f5c-ac7c-dea6aed8ae46" />
+
 
 This repository contains the code and resources for simulating and animating a dynamic system using **MATLAB Simulink**, **Python**, and **Blender**. It provides a step-by-step guide for users who wish to modify or build upon the project, whether it's adjusting the simulation parameters or tweaking the 3D animation.
 
