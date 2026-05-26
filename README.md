@@ -13,6 +13,13 @@ This project simulates a dynamic system where two objects are connected by sprin
 ### Key Features
 
 - **MATLAB Simulink** for modeling and system response simulation.
+  
+  <img width="730" height="381" alt="second diagram" src="https://github.com/user-attachments/assets/269fe8aa-011c-4c2f-b569-8230db4991e7" />
+  
+  ---
+
+  <img width="1914" height="977" alt="second graph" src="https://github.com/user-attachments/assets/0e81449b-6add-456c-a7e5-7552db550acf" />
+
 - **Blender** for 3D animation of the objects based on the simulation data.
 - Python script to import simulation data and create keyframe animations in Blender.
 - Mathematical model for spring behavior, allowing dynamic simulation adjustments.
